@@ -1,0 +1,11 @@
+name: lando_with_phpunit
+recipe: lamp
+config:
+  webroot: .
+  xdebug: true
+  conf:
+    php: .vscode/php.ini
+tooling:
+  phpunit:
+    service: appserver
+    cmd: vendor/bin/phpunit
