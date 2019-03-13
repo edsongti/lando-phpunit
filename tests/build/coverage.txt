@@ -1,0 +1,12 @@
+
+
+Code Coverage Report:   
+  2019-03-13 13:39:18   
+                        
+ Summary:               
+  Classes: 100.00% (1/1)
+  Methods: 100.00% (1/1)
+  Lines:   100.00% (1/1)
+
+\App\Models::App\Models\ExampleClass
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
